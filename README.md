@@ -37,3 +37,5 @@
 ### 📊 My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mateoargf&theme=ambient-gradient&border=050F2C&background=050F2C&ring=00AEFF&fire=00AEFF)](https://git.io/streak-stats)
+
+![mateoargf GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoargf&show_icons=true&theme=radical)
