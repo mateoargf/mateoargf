@@ -27,6 +27,8 @@
         <img src="imgs/icons8-javascript.svg" title="JavaScirpt" alt="JavaScirpt" width="40" height="40">
         <img src="imgs/icons8-reaccionar-40.png" title="React" alt="React" width="40" height="40">
         <img src="imgs/icons8-mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40">
+        <img src="imgs/icons8-typescript.svg" title="TypeScritp" alt="TypeScript" width="40" height="40">
+        <img src="imgs/icons8-node-js-48.png" title="Node.js" alt="Node.js" width="40" height="40">
     </div>
 </div>
 
