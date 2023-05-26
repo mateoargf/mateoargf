@@ -39,3 +39,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mateoargf&theme=ambient-gradient&border=050F2C&background=050F2C&ring=00AEFF&fire=00AEFF)](https://git.io/streak-stats)
 
 ![mateoargf GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoargf&show_icons=true&theme=algolia&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoargf&hide_progress=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
