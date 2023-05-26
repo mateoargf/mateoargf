@@ -40,4 +40,4 @@
 
 ![mateoargf GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoargf&show_icons=true&theme=algolia&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoargf&hide_progress=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoargf&Donut_Chart_layout=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
