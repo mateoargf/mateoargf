@@ -11,8 +11,23 @@
 ---
 
 ### 👨‍💻 About Me:
+
 - ⚙️ I use daily **HTML, CSS, Javascript**
 - 🌱 I´m currently learning about **ReactJS, PHP, MongoDB**
 - 🤔 I’m looking for my first job as a fullstack web developer.
 - 📫 How to reach me **mateogf@hotail.com**
 - 🔗 website : [portfolio.com](https://github.com/mateoargf/portfolioWeb/deployments/activity_log?environment=github-pages)
+
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="imgs/icons8-git.svg" title="GIT" alt="GIT" width="40" height="40">
+        <img src="imgs/icons8-html5.svg" title="HTML5" alt="HTML5" width="40" height="40">
+        <img src="imgs/icons8-css3.svg" title="CSS3" alt="CSS3" width="40" height="40">
+        <img src="imgs/icons8-javascript.svg" title="JavaScirpt" alt="JavaScirpt" width="40" height="40">
+        <img src="imgs/icons8-reaccionar-16.png" title="React" alt="React" width="40" height="40">
+        <img src="imgs/icons8-mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40">
+    </div>
+</div>
+
+---
