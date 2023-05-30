@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me:
 
-- ⚙️ I use daily **HTML, CSS, Javascript**
+- ⚙️ I use daily **HTML, CSS, JavaScript**
 - 🌱 I´m currently learning about **ReactJS, PHP, MongoDB**
 - 🤔 I’m looking for my first job as a fullstack web developer.
-- 📫 How to reach me **mateogf@hotail.com**
+- 📫 How to reach me **mateogf@hotmail.com**
 - 🔗 website : [portfolio.com](https://github.com/mateoargf/portfolioWeb/deployments/activity_log?environment=github-pages)
 
 <div align="left">
