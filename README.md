@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="250" frameBorder="0" class="giphy-embed" alt="gif">
-    <h1 align="center">Hi 🖐️, I´m Mateo Gómez Fleytas</h1>
+    <h1 align="center">Hi 🖐️, I´m Mateo Gomez Fleytas</h1>
     <h3 align="center">A passionate fullstack web developer from Argentina. I like to learn new technologies to improve my skills.</h3>
 </div>
 <div id="badges" align="center">
